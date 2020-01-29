@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25942ca4-51d5-4195-a57c-065976232540" name="Default Changelist" comment="" />
+    <list default="true" id="25942ca4-51d5-4195-a57c-065976232540" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +108,7 @@
       <workItem from="1579268378371" duration="10309000" />
       <workItem from="1579394881269" duration="5193000" />
       <workItem from="1579598380756" duration="931000" />
-      <workItem from="1580273145696" duration="819000" />
+      <workItem from="1580273145696" duration="1331000" />
     </task>
     <task id="LOCAL-00001" summary="app-timer first comit">
       <created>1580273956433</created>
@@ -115,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580273956433</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="app-timer second commit">
+      <created>1580274452797</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580274452797</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +145,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="app-timer first comit" />
-    <option name="LAST_COMMIT_MESSAGE" value="app-timer first comit" />
+    <MESSAGE value="app-timer second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="app-timer second commit" />
   </component>
 </project>
